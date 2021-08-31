@@ -4,6 +4,10 @@
 ### <font color ='navy'>This R code uses dataset file <*brfss2013_truncate.Rdata*>. This file has 56 columns and 491,775 rows. This dataset was taken from the above mentioned Coursera course. Original dataset has 330 columns and 491,775 rows. Most of the columns are removed as they are not being used in my code and to reduce file size.
 
 ### <font color ='navy'> The *brfss2013* (Behavioral Risk Factor Surveillance System 2013) dataset contains health related survey collected in year 2013 from all states in USA.
+  
+### This R project utilise following libraries:
+### 'dplyr' to aggregate data
+### 'ggplot2' to perform charts plotting
 
 ### <font color ='navy'>This code has 3 parts:
 ## <font color ='navy'>Part 1: clean data on column X_state by removing non-state information.</font>
